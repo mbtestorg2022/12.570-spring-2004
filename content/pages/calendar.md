@@ -4,19 +4,189 @@ title: Calendar
 uid: ca4b7624-7136-bf26-456f-8cf1cdb36b61
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Overview Papers | &nbsp; |
-| 3 | D'' Region and Chemical Interaction | &nbsp; |
-| 4 | ULVZ and CMB Reaction | &nbsp; |
-| 5 | ULVZ and Thermal Gradient Across CMB | &nbsp; |
-| 6 | Lower-mantle Solidus | &nbsp; |
-| 7 | D'' Anisotropy and Mineral Texture | &nbsp; |
-| 8 | D'' Anisotropy and Mineral Texture (cont.) | Term Paper Proposals Due |
-| 9 | Geodynamic Constraints | &nbsp; |
-| 10 | D'' Anisotropy and Mineral Texture and Plumes | &nbsp; |
-| 11 | Geochemical Constraints | &nbsp; |
-| 12 | Core-mantle Coupling and Geomagnetic Field | &nbsp; |
-| 13 | Student Presentations | Term Papers Due (End of the Week) |
-| 14 | Student Presentations | Term Papers Due (End of the Week)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Overview Papers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+D'' Region and Chemical Interaction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+ULVZ and CMB Reaction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+ULVZ and Thermal Gradient Across CMB
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Lower-mantle Solidus
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+D'' Anisotropy and Mineral Texture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+D'' Anisotropy and Mineral Texture (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Term Paper Proposals Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Geodynamic Constraints
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+D'' Anisotropy and Mineral Texture and Plumes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Geochemical Constraints
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Core-mantle Coupling and Geomagnetic Field
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Term Papers Due (End of the Week)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Term Papers Due (End of the Week)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
